@@ -2,7 +2,7 @@
 <manifest>
 
  <!-- Trees -->
- <project path="device/xiaomi/cancro" name="mojienjoyment/android_device_xiaomi_cancro.git" remote="github" revision="lineage-18.1" />
+ <project path="device/xiaomi/cancro" name="mojienjoyment/android_device_xiaomi_cancro.git" remote="github" revision="HavocOS-4.x" />
  <project path="device/xiaomi/msm8974-common" name="mojienjoyment/android_device_xiaomi_msm8974-common.git" remote="github" revision="lineage-18.1" />
  <project path="vendor/xiaomi/cancro" name="mojienjoyment/android_vendor_xiaomi_cancro.git" remote="github" revision="lineage-18.1" />
  <project path="kernel/xiaomi/virgo" name="mojienjoyment/android_kernel_xiaomi_virgo.git" remote="github" revision="lineage-18.1" />
